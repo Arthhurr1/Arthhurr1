@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src=<img width="1366" height="768" alt="gif" src="https://github.com/user-attachments/assets/61b83136-c54d-4ef4-9358-b5d58dcef624" />
+<img width="1366" height="768" alt="gif" src="https://github.com/user-attachments/assets/61b83136-c54d-4ef4-9358-b5d58dcef624" />
 >
 
 
