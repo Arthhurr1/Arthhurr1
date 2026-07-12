@@ -1,13 +1,16 @@
-<table background="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6225bb44-274c-45b9-96fa-8258458d2852" />
-">
-  <tr>
-    <td>
-      <!-- Cole aqui o seu texto, imagens ou estatísticas que ficarão na frente do GIF -->
-      <h1 align="center">Olá, eu sou o [Seu Nome]! 👋</h1>
-      <p align="center">Desenvolvedor Full Stack apaixonado por tecnologia.</p>
-    </td>
-  </tr>
-</table>
+<img width="800" height="200" alt="Arthhurr1-profile-banner" src="https://github.com/user-attachments/assets/e0c11d3e-4de5-424e-ad51-159761cc6553" /><svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Definitions for gradients and animations -->
+  <defs>
+    <!-- Radial gradient for red reflection - ENHANCED: larger size and more prominent -->
+    <radialGradient id="redGlow" cx="0.1" cy="0.1" r="1.8" fx="0.1" fy="0.1">
+      <stop offset="0%" stop-color="#520806" stop-opacity="0.9">
+        <animate attributeName="stop-opacity" values="0.9;0.95;0.9" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#520806" stop-opacity="0.6" />
+      <stop offset="80%" stop-color="#520806" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+      
+      
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arthur Santiago
 ========================================================================================================================================
