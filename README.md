@@ -1,8 +1,15 @@
-<table background="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/39504d8d-87fe-45e2-93f4-ec363f19b3fa" />
+<table background="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6225bb44-274c-45b9-96fa-8258458d2852" />
 ">
   <tr>
     <td>
-      <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arthur Santiago
+      <!-- Cole aqui o seu texto, imagens ou estatísticas que ficarão na frente do GIF -->
+      <h1 align="center">Olá, eu sou o [Seu Nome]! 👋</h1>
+      <p align="center">Desenvolvedor Full Stack apaixonado por tecnologia.</p>
+    </td>
+  </tr>
+</table>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arthur Santiago
 ========================================================================================================================================
 
 Developer Web | Java | JavaScript
@@ -29,13 +36,3 @@ FullStack programador.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Arthhurr1"><img src="https://github-readme-stats.vercel.app/api?username=Arthhurr1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="Arthhurr1's GitHub stats" /></a>
-
-
-
- -->
-      <h1 align="center">Olá, eu sou o [Arthur Santiago]! 👋</h1>
-      <p align="center">Desenvolvedor Full Stack apaixonado por tecnologia.</p>
-    </td>
-  </tr>
-</table>
-
