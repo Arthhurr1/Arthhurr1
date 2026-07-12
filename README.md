@@ -1,12 +1,8 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/04b14bc3-39ca-4663-adf9-bb5c4b18ebc1" />
-)
-
-<div align="center">
-  <img src="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a46f0b0c-d80a-4fad-a907-e0c44c6e34c0" />
-" width="400" />
-</div>
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arthur Santiago
+<table background="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/39504d8d-87fe-45e2-93f4-ec363f19b3fa" />
+">
+  <tr>
+    <td>
+      <!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arthur Santiago
 ========================================================================================================================================
 
 Developer Web | Java | JavaScript
@@ -35,4 +31,11 @@ FullStack programador.
 <a href="http://www.github.com/Arthhurr1"><img src="https://github-readme-stats.vercel.app/api?username=Arthhurr1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="Arthhurr1's GitHub stats" /></a>
 
 
+
+ -->
+      <h1 align="center">Olá, eu sou o [Arthur Santiago]! 👋</h1>
+      <p align="center">Desenvolvedor Full Stack apaixonado por tecnologia.</p>
+    </td>
+  </tr>
+</table>
 
