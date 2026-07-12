@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://i.pinimg.com/originals/15/79/fe/1579feb3e44c8e658aac136445720687.gif">](https://i.pinimg.com/originals/15/79/fe/1579feb3e44c8e658aac136445720687.gif")
+<img src="https://i.pinimg.com/originals/15/79/fe/1579feb3e44c8e658aac136445720687.gif">
 
 
 
